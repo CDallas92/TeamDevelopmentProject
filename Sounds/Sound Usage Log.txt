@@ -1,0 +1,32 @@
+00. Croud Of Sloths.wav - NOT USED
+01. Debris Stone.wav - NOT USED
+02. Debris.wav - Plays in the background intermittently
+03. Engineers Celebrating.wav - Plays when throne is built
+04. Frizzard Conversation 2.wav - NOT USED
+05. Frizzard Conversation.wav - NOT USED
+06. Frizzard convo 2.wav - Plays intermittently if there are multiple Engineers
+07. Frizzard convo.wav - Plays intermittently if there are multiple Frizzards
+08. Frizzard happy.wav - Plays when new Frizzard is created
+09. Frizzards Celebrating.wav - Plays when Ooze is refined and when throne is built
+10. Frizzards Crying.wav - NOT USED
+11. Frizzards screaming short.wav - BROKEN
+12. Frizzards Screaming.wav - NOT USED
+13. Left Earth Footstep.wav - NOT USED
+14. Metal Impact.wav - Plays when new building is placed and also plays in the background intermittently
+15. Metal Unbending.wav - Plays when new building is placed and also plays in the background intermittently
+16. Ooze Collecting.wav - Plays when Ooze is updated
+17. Ooze Infected.wav - NOT USED
+18. Ooze Pool.wav - Plays during the Ooze title screen. Stops playing when space bar is hit
+19. Ooze Refined.wav - Plays when game is started, Ooze is refined and when throne is built
+20. Paper Fluttering.wav - Plays when Tech Tree/Quest Log are opened/closed
+21. Right Earth Footstep.wav - NOT USED
+22. Sloth Conversation Short.wav - NOT USED
+23. Sloth Conversation.wav - Plays intermittently if there are multiple Sloths
+24. Sloth Talking 2.wav - Plays intermittently if there is only one Sloth
+25. Sloth Talking 3.wav - NOT USED
+26. Sloth Talking.wav - Plays when new Sloth is created
+27. Statue Footstep Left.wav - NOT USED
+28. Statue Footstep Right.wav - NOT USED
+29. Water Dripping.wav - Plays in the background intermittently
+30. Waterfall.wav - Plays as a background track (broken)
+31. Engineers Happy.wav - Plays when new Engineer is created
