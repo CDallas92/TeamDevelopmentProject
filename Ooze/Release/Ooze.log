@@ -1,0 +1,70 @@
+﻿Build started 25/04/2013 04:23:14.
+     1>Project "C:\Users\Daniel\Desktop\Ooze 3.88 (Less Artifacts)\Ooze 3.88 (Less Artifacts)\Ooze\Ooze.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Release\Ooze.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /Od /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\Source\main.cpp
+         main.cpp
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\tga.h(99): warning C4244: '=' : conversion from 'std::streamoff' to 'unsigned long', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\pathfinding.h(24): warning C4091: 'typedef ' : ignored on left of 'Node' when no variable is declared
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(74): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(75): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(76): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(87): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(88): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(126): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(127): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(140): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(144): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(149): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(153): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(180): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(184): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(189): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(193): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(205): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(211): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(217): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(223): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(328): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(341): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(354): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\spriteclass.h(367): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\GameManager.h(193): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\GameManager.h(203): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\sounds.h(99): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\InGameMenu.h(151): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(99) : see declaration of 'gmtime'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\InGameMenu.h(1099): warning C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\time.inl(99) : see declaration of 'gmtime'
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\Cursor.h(213): warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\Cursor.h(227): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\Cursor.h(241): warning C4244: '-=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\Cursor.h(256): warning C4244: '+=' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\Font.h(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\Font.h(29): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\Font.h(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\Font.h(46): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+     1>..\Source\main.cpp(61): warning C4091: 'typedef ' : ignored on left of 'SpriteLink' when no variable is declared
+     1>..\Source\main.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>..\Source\main.cpp(661): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+       ResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Daniel\Desktop\Ooze 3.88 (Less Artifacts)\Ooze 3.88 (Less Artifacts)\Release\Ooze.exe" /NOLOGO OpenGL32.lib GLu32.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Ooze.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Daniel\Desktop\Ooze 3.88 (Less Artifacts)\Ooze 3.88 (Less Artifacts)\Release\Ooze.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Daniel\Desktop\Ooze 3.88 (Less Artifacts)\Ooze 3.88 (Less Artifacts)\Release\Ooze.lib" /MACHINE:X86 Release\Ooze.res
+         Release\camera.obj
+         Release\main.obj
+         Generating code
+     1>c:\users\daniel\desktop\ooze 3.88 (less artifacts)\ooze 3.88 (less artifacts)\source\pathfinding.h(55): warning C4715: 'CanGo' : not all control paths return a value
+         Finished generating code
+         Ooze.vcxproj -> C:\Users\Daniel\Desktop\Ooze 3.88 (Less Artifacts)\Ooze 3.88 (Less Artifacts)\Release\Ooze.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Daniel\Desktop\Ooze 3.88 (Less Artifacts)\Ooze 3.88 (Less Artifacts)\Release\Ooze.exe;#1" /manifest Release\Ooze.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\Ooze.unsuccessfulbuild".
+         Touching "Release\Ooze.lastbuildstate".
+     1>Done Building Project "C:\Users\Daniel\Desktop\Ooze 3.88 (Less Artifacts)\Ooze 3.88 (Less Artifacts)\Ooze\Ooze.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
